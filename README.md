@@ -8,12 +8,16 @@ User can login and register in this website.User can add multiple products and s
 - Order Page
 - Profile update Page
 - Forgot Password Page
+- Navigation Bar
 
 
 # Tools and Technologies used:
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Javascript
 - PHP
 - MYSQL
+- Bootstrap
+- Xampp
+
 
